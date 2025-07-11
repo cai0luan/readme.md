@@ -13,8 +13,9 @@
 💥 Minha missão: **quebrar, entender e reconstruir sistemas com precisão cirúrgica.**
 
 ---
+## 📄 Clique na imagem para baixar meu currículo completo:
 
-<a href="./CaioLuan_CV_RedTeam2025.pdf" download>
+<a href="https://raw.githubusercontent.com/username/repository/branch/CaioLuan_CV_RedTeam2025.pdf" download>
   <img src="./download-cv-banner.png" alt="Download My CV" />
 </a>
 
