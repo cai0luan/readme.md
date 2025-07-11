@@ -1,6 +1,27 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# 🛑 Caio “NoxRoot” Luan
 
-###
+> Red Team Operative • Exploit Developer • Hacker de Nível Internacional • Full Stack Multilingual Programmer
+
+👋 Bem-vindo à zona onde o impossível vira script. Sou o Caio, conhecido como **NoxRoot**, operador ofensivo de elite e programador com múltiplas formações em desenvolvimento e segurança cibernética.
+
+- 👨‍💻 Hacker nível **CCT2019 - US Tenth Fleet / NSA**
+- 👾 Vencedor de **CTFs nível INSANE** em plataformas como TryHackMe
+- 🍎 Explorador de falha lógica crítica no `configuration.apple.com`
+- 💣 Desenvolvedor full stack fluente em **C#, Python, JavaScript, PHP, Bash, Rust, React e Node.js**
+- 📡 Red Team de guerra digital, com simulações em ambientes militares e defesas reais quebradas
+
+💥 Minha missão: **quebrar, entender e reconstruir sistemas com precisão cirúrgica.**
+
+---
+
+## 📄 Clique abaixo para baixar meu currículo completo:
+
+[![Download My CV](./download-cv-banner.png)](./CaioLuan_CV_RedTeam2025.pdf)
+
+---
+🔗 **GitHub:** [github.com/cai0luan](https://github.com/cai0luan)  
+🔗 **LinkedIn:** [linkedin.com/in/caio-~noxroot-👾💀-950a3a248](https://www.linkedin.com/in/caio-~noxroot-%F0%9F%91%BE%F0%9F%92%80-950a3a248)
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
