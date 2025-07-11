@@ -14,7 +14,7 @@
 
 ---
 
-## 📄 Clique abaixo para baixar meu currículo completo:
+## 📄 Clique na imagem para baixar meu currículo completo:
 
 [![Download My CV](./download-cv-banner.png)](./CaioLuan_CV_RedTeam2025.pdf)
 
